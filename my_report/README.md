@@ -1,9 +1,9 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Augmented Reality Personal Repository: xxx
+### First and Last Name: Marina- Eleni Anastasiadou
+### University Registration Number: dpsd19005
+### GitHub Personal Profile: https://github.com/Marina-Eleni-Anastasiadou
+### Augmented Reality Personal Repository: https://marina-eleni-anastasiadou.github.io/Augmented-Reality/
 
 # Introduction
 
@@ -12,7 +12,8 @@
 
 # 1st Deliverable
 
-
+εβαλα το σχημάτα με τις διαστασεις τους χρωματα και τα λοιπα 
+εβαλα το χιονι  και το την γωνιτ8ικη εντολη για να ξεκινησει το χιονι κια να σταματησει
 # 2nd Deliverable
 
 
