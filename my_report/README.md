@@ -20,6 +20,8 @@
 <p>Για το πρώτο υποερώτημα : παίρνοντας τις είκονες που μου δώθηκαν στο φάκελο assets , μέσω του photoshop τις διάμορφωσα ετσι ώστε να εχουν το dpsd μου και τις έκανα markers μέσω του λινκ που μου δώθηκε</p>Δήμιουργόντας ετσι μια εικόνα png. και ενα pattern patt.Tα έβαλα στον φάκελο assets.Στην σύνεχεια πρόσθετοντας ενα a text ετσι ώστε μέσω  τις κάμερας , με το που δείχνω την εικονα που εφτίαξα να έμφανιζει το όνομα μου και το επιθέτο μου .Για το τέλος του πρώτου παραδοτέου μάζι με το όνομα κια το επίθετο μου να έμφανιζει κια μια φώτογραφια.<p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> <p>
 https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js/ 
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html </p>
+<p>ar-js-org.github.io/AR.js-Docs/marker-based/</p>
+<p>aframe.io/blog/arjs/</p>
 
 <p>Για το δεύτερο υποερώτημα: σύμφωνα με αύτα που ζητήθηκαν και παλι  με την βοήθεια απο αυτα που μου δώθηκαν πήρα τις είκονες για το υδρόγονο(H)(Hydrogen) & οξύγονο(O)(oxygen) μέσω του πρώτου λινκ απο το πρώτουποερώτημα και εφτίαξα δυο αντίστοιχα markers.Στην συνέχεια για να μπόρεσω  να φτιάξω το animation για το H & O χρησιμοποίησα το ζωγραφίκη 3Δ και τα απόθηκευσα ως 3d object  και  τα έβαλα στον φάκελο assets.Στη συνέχεια για να αναγνώριζτουν τα markers στον  κώδικα τα έβαλα στο a- scene.Aσχόληθηκα πρωτα με το Η έβαλα μια είκονα στο marker του να εμφανιστει ως φωτογραφια , μέτα για να εμφανιζετε κάλυτερα στην όθονη άλλαξα το position & value και για να δημιουργηθει η κινηση στο animation μπηκε η εντολη animation_rotate.Έκανα το ιδιο για το Ο.Kαι για το τέλος μέσω της ζωγραφικης 3d εκανα μια νεα  εικονα του   νερου (H20)(WATERAKI),την οποία έβλα κια αυτη στο assets.   </p> 
 <p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> 
@@ -42,6 +44,8 @@ https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples
 # Sources
 <p>https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js/</p> 
 <p>https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html </p> 
+<p>ar-js-org.github.io/AR.js-Docs/marker-based/</p>
+<p>aframe.io/blog/arjs/</p>
 <p>https://aframe.io/blog/arjs/</p>
 <p>https://stemkoski.github.io/AR.js-examples/index.html</p>
 <p>https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js</p>
