@@ -18,10 +18,10 @@
 
 # 2nd Deliverable 
 <p>Για το πρώτο υποερώτημα : παίρνοντας τις είκονες που μου δώθηκαν στο φάκελο assets , μέσω του photoshop τις διάμορφωσα ετσι ώστε να εχουν το dpsd μου και τις έκανα markers μέσω του λινκ που μου δώθηκε</p>Δήμιουργόντας ετσι μια εικόνα png. και ενα pattern patt.Tα έβαλα στον φάκελο assets.Στην σύνεχεια πρόσθετοντας ενα a text ετσι ώστε μέσω  τις κάμερας , με το που δείχνω την εικονα που εφτίαξα να έμφανιζει το όνομα μου και το επιθέτο μου .Για το τέλος του πρώτου παραδοτέου μάζι με το όνομα κια το επίθετο μου να έμφανιζει κια μια φώτογραφια.<p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> <p>
-https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js/ 
-https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
-https://ar-js-org.github.io/AR.js-Docs/marker-based/
-https://aframe.io/blog/arjs/
+<p>https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js/</p> 
+<p>https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html</p>
+<p>https://ar-js-org.github.io/AR.js-Docs/marker-based/</p>
+<p>https://aframe.io/blog/arjs/</p>
 </p>
 
 
