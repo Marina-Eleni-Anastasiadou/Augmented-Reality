@@ -22,10 +22,14 @@ https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html </p>
 
 <p>Για το δεύτερο υποερώτημα: σύμφωνα με αύτα που ζητήθηκαν και παλι  με την βοήθεια απο αυτα που μου δώθηκαν πήρα τις είκονες για το υδρόγονο(H)(Hydrogen) & οξύγονο(O)(oxygen) μέσω του πρώτου λινκ απο το πρώτουποερώτημα και εφτίαξα δυο αντίστοιχα markers.Στην συνέχεια για να μπόρεσω  να φτιάξω το animation για το H & O χρησιμοποίησα το ζωγραφίκη 3Δ και τα απόθηκευσα ως 3d object  και  τα έβαλα στον φάκελο assets.Στη συνέχεια για να αναγνώριζτουν τα markers στον  κώδικα τα έβαλα στο a- scene.Aσχόληθηκα πρωτα με το Η έβαλα μια είκονα στο marker του να εμφανιστει ως φωτογραφια , μέτα για να εμφανιζετε κάλυτερα στην όθονη άλλαξα το position & value και για να δημιουργηθει η κινηση στο animation μπηκε η εντολη animation_rotate.Έκανα το ιδιο για το Ο.Kαι για το τέλος μέσω της ζωγραφικης 3d εκανα μια νεα  εικονα του   νερου (H20)(WATERAKI)   </p> 
-<p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> <p>
-https://aframe.io/blog/arjs/
-https://stemkoski.github.io/AR.js-examples/index.html
+<p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> 
+<p>https://aframe.io/blog/arjs/</p>
+<p>https://stemkoski.github.io/AR.js-examples/index.html</p>
  </p>
+
+<p>Για το τρίτο υποερώτημα :Χρησιμοποίησα το λινκ που δώθηκε στην διαλεξη στης 06/05  για να πάρω ένα ετόιμο script και  σύμφωνα με αυτα που συζητήθηκαν στο μάθημα πρόσθεσα και την εντόλη if-else με markerDistance <2 να εμφάνιζει την είκονα του Η2Ο αλλα δεν δουλέυει αύτο το κόμματι.</p>
+ <p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> 
+<p>https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js</p>
 
 
 
@@ -40,3 +44,4 @@ https://stemkoski.github.io/AR.js-examples/index.html
 <p>https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html </p> 
 <p>https://aframe.io/blog/arjs/</p>
 <p>https://stemkoski.github.io/AR.js-examples/index.html</p>
+<p>https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js</p>
