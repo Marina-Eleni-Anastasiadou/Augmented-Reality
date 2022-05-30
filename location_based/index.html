@@ -37,7 +37,7 @@
         </a-entity>
 
         <a-assets>
-            <a-asset-item id="scene" src="assets/ShanghaiTower.glb"></a-asset-item>
+            <a-asset-item id="scene" src="assets/Nagasaki.glb"></a-asset-item>
         </a-assets>
 
        
@@ -46,11 +46,11 @@
 
         <a-entity gltf-model="#scene" scale="25 25 25" class="click" 
                animation__rotate="property: rotation; dur: 5000; easing: linear; dir: normal; from:0 0 0; to: 0 360 0; loop: true;"
-                gps-entity-place="latitude:  31.233501; longitude: 121.505760;" text-show>
+                gps-entity-place="latitude:  32.7675; longitude: 129.868611;" text-show>
                 
                 <a-entity class="clickable"
                           position="0 1 1"
-                          text="color: black; font-size:4; font-type: bold; align: center; value: Shanghai Tower  ;
+                          text="color: black; font-size:4; font-type: bold; align: center; value: Nagasaki Arch Of The Sannō Shrine How Does It Still Exsits  ;
                            width: 5; height: 5;  letterSpacing: 5;" visible="false">
                         </a-entity>
             </a-entity>
@@ -60,7 +60,7 @@
     
         <a-camera
             rotation-reader
-            gps-camera="simulateLatitude:  31.233501; simulateLongitude: 121.505760; minDistance: 1; maxDistance: 700;" >
+            gps-camera="simulateLatitude: 32.7675; simulateLongitude: 129.868611; minDistance: 1; maxDistance: 700;" >
 		</a-camera>
 	</a-scene>
 </body>
