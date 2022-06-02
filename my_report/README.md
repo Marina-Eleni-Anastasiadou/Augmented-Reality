@@ -20,8 +20,8 @@
 <p>Για το πρώτο υποερώτημα : παίρνοντας τις είκονες που μου δώθηκαν στο φάκελο assets , μέσω του photoshop τις διάμορφωσα ετσι ώστε να εχουν το dpsd μου και τις έκανα markers μέσω του λινκ που μου δώθηκε</p>Δήμιουργόντας ετσι μια εικόνα png. και ενα pattern patt.Tα έβαλα στον φάκελο assets.Στην σύνεχεια πρόσθετοντας ενα a text ετσι ώστε μέσω  τις κάμερας , με το που δείχνω την εικονα που εφτίαξα να έμφανιζει το όνομα μου και το επιθέτο μου .Για το τέλος του πρώτου παραδοτέου μάζι με το όνομα κια το επίθετο μου να έμφανιζει κια μια φώτογραφια.<p> Tα λινκ που χρησιμοποιοήθηκαν για αυτό κόμματι :</p> <p>
 <p> <a href="https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js/" target="_blank">LINK1!</a> </p> 
 <p><a href="https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html " target="_blank">LINK2!</a> </p>
-<p>a href=" https://ar-js-org.github.io/AR.js-Docs/marker-based/" target="_blank">LINK3!</a></p>
-<p>href="https://aframe.io/blog/arjs/ " target="_blank">LINK4!</a></p>
+<p><a  href=" https://ar-js-org.github.io/AR.js-Docs/marker-based/" target="_blank">LINK3!</a></p>
+<p><a href="https://aframe.io/blog/arjs/ " target="_blank">LINK4!</a></p>
 </p>
 
 
