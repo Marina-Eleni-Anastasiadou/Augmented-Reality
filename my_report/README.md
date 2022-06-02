@@ -38,10 +38,10 @@
 
 
 # 3rd Deliverable 
+<p>Σύμφωνα με αυτό που ζητήθηκε στο πρώτο υποερώτημα βρήκα ένα αρχείο glb  στο πρόγραμμα 3d ζωγραφική ,συγκέκριμενα πήρα το τόξο του nagasaki και το έβαλα στο φάκελο assets.Στην συνέχεια βρήκα στο ιντερντ και βρήκα τις γεωγραφικές σύνταγμενες του μνημείου.Μέτα πήρα τις συντεταγμένες και τις εβαλα στον κώδικα που βρήκα εδω:
 
-
+<a href="https://aframe.io/blog/arjs3/" target="_blank">ΕΔΩ!</a> 
 # Conclusions
-
 
 # Sources
 <p>https://www.oodlestechnologies.com/blogs/how-to-create-your-own-marker-for-ar-js/</p> 
