@@ -38,9 +38,9 @@
 
 
 # 3rd Deliverable 
-<p>Σύμφωνα με αυτό που ζητήθηκε στο πρώτο υποερώτημα βρήκα ένα αρχείο glb  στο πρόγραμμα 3d ζωγραφική ,συγκέκριμενα πήρα το τόξο του nagasaki και το έβαλα στο φάκελο assets.Στην συνέχεια βρήκα στο ιντερντ και βρήκα τις γεωγραφικές σύνταγμενες του μνημείου.Μέτα πήρα τις συντεταγμένες και τις εβαλα στον κώδικα που βρήκα εδω:
+<p>Σύμφωνα με αυτό που ζητήθηκε στο πρώτο υποερώτημα βρήκα ένα αρχείο glb  στο πρόγραμμα 3d ζωγραφική ,συγκέκριμενα πήρα το τόξο του nagasaki και το έβαλα στο φάκελο assets.Στην συνέχεια βρήκα στο ιντερντ και βρήκα τις γεωγραφικές σύνταγμενες του μνημείου.Μέτα πήρα τις συντεταγμένες και τις εβαλα στον κώδικα που βρήκα :<a href="https://aframe.io/blog/arjs3/" target="_blank">ΕΔΩ!</a>.Kαι για το τέλος μέσα enity που πέριεχει το 3D object αλλάξα τις συντεταγμένες στο GPS camera  για να φαίνεται στην οθόνη.</p>
 
-<a href="https://aframe.io/blog/arjs3/" target="_blank">ΕΔΩ!</a> 
+<p>Για το δεύτερο υπορεώτημα άπλα για να εμφάνιζεται το κείμενο οταν ο χρήστης κάνει click  πάνω στο 3D object, βρήκα <a href="https://glitch.com/edit/#!/salty-partner-1?path=index.html%3A68%3A16" target="_blank">AYTO!</a> 
 # Conclusions
 
 # Sources
@@ -51,3 +51,5 @@
 <p>https://aframe.io/blog/arjs/</p>
 <p>https://stemkoski.github.io/AR.js-examples/index.html</p>
 <p>https://stackoverflow.com/questions/61239107/how-to-get-marker-position-x-y-ar-js</p>
+<p>https://aframe.io/blog/arjs3/</p>
+<p>https://glitch.com/edit/#!/salty-partner-1?path=index.html%3A68%3A16</p>
